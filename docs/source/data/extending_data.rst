@@ -159,7 +159,7 @@ The advantage of this mechanism is:
 * provider could be switched seamlessly
 
 4. Implement recorder
-~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
 Let's implement a recorder for StockNews.
 
 ::
